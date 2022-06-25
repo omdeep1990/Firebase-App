@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase Push Notification</string>
+    <string name="this_is_a_message">This is a Message</string>
+    <string name="title">Title</string>
+    <string name="alarm">alarm</string>
+</resources>
